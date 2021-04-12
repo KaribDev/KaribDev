@@ -29,7 +29,7 @@
 
 [<img align="left" alt="Git" width="44px" src="https://www.flaticon.com/svg/vstatic/svg/617/617509.svg?token=exp=1618179333~hmac=aad20cb7e2a54c22798ed794f7a9ed35" />][git]
 [<img align="left" alt="Linux" width="44px" src="https://www.flaticon.com/svg/vstatic/svg/518/518713.svg?token=exp=1618179861~hmac=8d5bc51a4bb89d07595f7c8b05ac8463" />][linux]
-[<img align="left" alt="Command Prompt" width="44px" src="https://www.flaticon.com/svg/vstatic/svg/3602/3602218.svg?token=exp=1618217536~hmac=40bcb7ae72331bdcfd34d77659e80e8c" />][cmd]
+[<img align="left" alt="Command Prompt" width="44px" src="https://www.flaticon.com/svg/vstatic/svg/1413/1413311.svg?token=exp=1618217565~hmac=53808adbe53a400a109203e9d44d7d70" />][cmd]
 
 [git]: https://git-scm.com
 [linux]: https://www.linuxfoundation.org
