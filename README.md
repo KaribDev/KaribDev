@@ -29,9 +29,11 @@
 
 [<img align="left" alt="Git" width="44px" src="https://www.flaticon.com/svg/vstatic/svg/617/617509.svg?token=exp=1618179333~hmac=aad20cb7e2a54c22798ed794f7a9ed35" />][git]
 [<img align="left" alt="Linux" width="44px" src="https://www.flaticon.com/svg/vstatic/svg/518/518713.svg?token=exp=1618179861~hmac=8d5bc51a4bb89d07595f7c8b05ac8463" />][linux]
+[<img align="left" alt="Command Prompt" width="44px" src="https://www.flaticon.com/svg/vstatic/svg/643/643324.svg?token=exp=1618217356~hmac=fa29da6c7b6a12bbf6121fbb91e32338" />][cmd]
 
 [git]: https://git-scm.com
 [linux]: https://www.linuxfoundation.org
+[cmd]: https://docs.microsoft.com/ru-ru/windows-server/administration/windows-commands/windows-commands
 
 <br />
 <br />
