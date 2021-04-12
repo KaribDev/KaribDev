@@ -21,7 +21,7 @@
 [<img align="left" alt="SQL" width="44px" src="https://www.flaticon.com/svg/vstatic/svg/1265/1265531.svg?token=exp=1618178675~hmac=a2e6236982b3577378f5824471adbd92" />][sql]
 [<img align="left" alt="SQLite" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" />][sqlite]
 
-[sql]: https://www.iso.org/standard/63555.html
+[sql]: https://tproger.ru/translations/sql-recap
 [sqlite]: https://www.sqlite.org
 
 <br />
