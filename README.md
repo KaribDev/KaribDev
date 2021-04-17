@@ -31,12 +31,10 @@
 [<img align="left" alt="Git" width="44px" src="icons/git.svg" />][git]
 [<img align="left" alt="Linux" width="44px" src="icons/linux.svg" />][linux]
 [<img align="left" alt="Command Prompt" width="44px" src="icons/cmd.svg" />][cmd]
-[<img align="left" alt="SPARQL" width="44px" src="icons/sparql.svg" />][sparql]
 
 [git]: https://git-scm.com
 [linux]: https://www.linuxfoundation.org
 [cmd]: https://docs.microsoft.com/ru-ru/windows-server/administration/windows-commands/windows-commands
-[sparql]: https://www.w3.org/TR/rdf-sparql-query
 
 <br />
 <br />
