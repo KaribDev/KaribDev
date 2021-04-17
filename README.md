@@ -66,6 +66,6 @@
 
 <p align="center" >  
   <a href="https://github.com/SirKarib/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=SirKarib&&show_icons=true&theme=radical"/>
+<img  src="[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)"/>
   </a>
   </p>
