@@ -60,3 +60,12 @@
 [<img align="left" alt="CodeWars" width="200px" src="https://www.codewars.com/users/SirKarib/badges/micro" />][codewars]
 
 [codewars]: https://www.codewars.com/users/SirKarib
+
+<br />
+<br />
+
+<p align="center" >  
+  <a href="https://github.com/SirKarib/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=SirKarib&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
