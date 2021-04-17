@@ -44,6 +44,9 @@
 [<img align="left" alt="Telegram" width="40px" src="icons/telegram.svg" />][telegram]
 [<img align="left" alt="Instagram" width="40px" src="icons/instagram.svg" />][instagram]
 [<img align="left" alt="Discord" width="40px" src="icons/discord.svg" />][discord]
+
+<br />
+
 [<img align="left" alt="Steam" width="40px" src="icons/steam.svg" />][steam]
 [<img align="left" alt="Spotify" width="40px" src="icons/spotify.svg" />][spotify]
 
