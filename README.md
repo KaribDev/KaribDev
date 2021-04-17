@@ -30,7 +30,7 @@
 
 [<img align="left" alt="Git" width="44px" src="icons/git.svg" />][git]
 [<img align="left" alt="Linux" width="44px" src="icons/linux.svg" />][linux]
-[<img align="left" alt="Command Prompt" width="44px" src="cmd.svg" />][cmd]
+[<img align="left" alt="Command Prompt" width="44px" src="icons/cmd.svg" />][cmd]
 
 [git]: https://git-scm.com
 [linux]: https://www.linuxfoundation.org
@@ -41,11 +41,11 @@
 
 ### Social Media
 
-[<img align="left" alt="Telegram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />][telegram]
-[<img align="left" alt="Instagram" width="40px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />][instagram]
-[<img align="left" alt="Discord" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111370.svg?token=exp=1618214729~hmac=449d1925f0d59d2bf59e434a05fb9dac" />][discord]
-[<img align="left" alt="Steam" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/220/220223.svg?token=exp=1618214248~hmac=ce1a2e551ee2f2455905c56b17d33e74" />][steam]
-[<img align="left" alt="Spotify" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/174/174872.svg?token=exp=1618213960~hmac=c9c188d76b5981b460ba7ffd4b6673c7" />][spotify]
+[<img align="left" alt="Telegram" width="40px" src="icons/telegram.svg" />][telegram]
+[<img align="left" alt="Instagram" width="40px" src="icons/instagram.svg" />][instagram]
+[<img align="left" alt="Discord" width="40px" src="icons/discord.svg" />][discord]
+[<img align="left" alt="Steam" width="40px" src="icons/steam.svg" />][steam]
+[<img align="left" alt="Spotify" width="40px" src="icons/spotify.svg" />][spotify]
 
 [telegram]: https://t.me/SirKarib
 [instagram]: https://www.instagram.com/cyril_chirkov/
