@@ -19,8 +19,8 @@
 
 [python]: https://www.python.org
 
-[<img align="left" alt="SQL" width="44px" src="https://www.flaticon.com/svg/vstatic/svg/1265/1265531.svg?token=exp=1618178675~hmac=a2e6236982b3577378f5824471adbd92" />][sql]
-[<img align="left" alt="SQLite" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" />][sqlite]
+[<img align="left" alt="SQL" width="44px" src="icons/sql.svg" />][sql]
+[<img align="left" alt="SQLite" width="44px" src="icons/sqlite.svg" />][sqlite]
 
 [sql]: https://tproger.ru/translations/sql-recap
 [sqlite]: https://www.sqlite.org
@@ -28,9 +28,9 @@
 <br />
 <br />
 
-[<img align="left" alt="Git" width="44px" src="https://www.flaticon.com/svg/vstatic/svg/617/617509.svg?token=exp=1618179333~hmac=aad20cb7e2a54c22798ed794f7a9ed35" />][git]
-[<img align="left" alt="Linux" width="44px" src="https://www.flaticon.com/svg/vstatic/svg/518/518713.svg?token=exp=1618179861~hmac=8d5bc51a4bb89d07595f7c8b05ac8463" />][linux]
-[<img align="left" alt="Command Prompt" width="44px" src="https://www.flaticon.com/svg/vstatic/svg/1413/1413311.svg?token=exp=1618217565~hmac=53808adbe53a400a109203e9d44d7d70" />][cmd]
+[<img align="left" alt="Git" width="44px" src="icons/git.svg" />][git]
+[<img align="left" alt="Linux" width="44px" src="icons/linux.svg" />][linux]
+[<img align="left" alt="Command Prompt" width="44px" src="cmd.svg" />][cmd]
 
 [git]: https://git-scm.com
 [linux]: https://www.linuxfoundation.org
