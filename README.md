@@ -38,7 +38,6 @@
 
 <br />
 <br />
-<br />
 
 ### Social Media
 
@@ -54,6 +53,7 @@
 [steam]: https://steamcommunity.com/id/SirKarib
 [spotify]: https://open.spotify.com/user/00woaxm0157hsba4h99q314ka?si=snimGCJLRFCLRA_L1QW6Hg
 
+<br />
 <br />
 <br />
 
