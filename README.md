@@ -46,6 +46,7 @@
 [<img align="left" alt="Discord" width="40px" src="icons/discord.svg" />][discord]
 
 <br />
+<br />
 
 [<img align="left" alt="Steam" width="40px" src="icons/steam.svg" />][steam]
 [<img align="left" alt="Spotify" width="40px" src="icons/spotify.svg" />][spotify]
@@ -56,7 +57,6 @@
 [steam]: https://steamcommunity.com/id/SirKarib
 [spotify]: https://open.spotify.com/user/00woaxm0157hsba4h99q314ka?si=snimGCJLRFCLRA_L1QW6Hg
 
-<br />
 <br />
 <br />
 
