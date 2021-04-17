@@ -36,7 +36,7 @@
 [git]: https://git-scm.com
 [linux]: https://www.linuxfoundation.org
 [cmd]: https://docs.microsoft.com/ru-ru/windows-server/administration/windows-commands/windows-commands
-[sparql]: https://docs.microsoft.com/ru-ru/windows-server/administration/windows-commands/windows-commands
+[sparql]: https://www.w3.org/TR/rdf-sparql-query
 
 <br />
 <br />
