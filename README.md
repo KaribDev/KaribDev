@@ -1,8 +1,8 @@
 ### Skills and Tools
 
 [<img align="left" alt="HTML5" width="36px" src="icons/html.svg" />][html]
-[<img align="left" alt="CSS3" width="37x" src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1618177470~hmac=ae14b74937ed92c90a8c3b15770cf71a" />][css]
-[<img align="left" alt="JavaScript" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="CSS3" width="37x" src="icons/css.svg" />][css]
+[<img align="left" alt="JavaScript" width="34px" src="icons/js.svg" />][javascript]
 
 
 [html]: https://www.w3.org/html
@@ -12,7 +12,7 @@
 <br />
 <br />
 
-[<img align="left" alt="Python" width="150px" src="https://www.python.org/static/community_logos/python-logo-generic.svg" />][python]
+[<img align="left" alt="Python" width="150px" src="icons/python.svg" />][python]
 
 <br />
 <br />
