@@ -7,17 +7,17 @@
 
 [html]: https://www.w3.org/html
 [css]: https://www.w3.org/Style/CSS
-[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[javascript]: https://devdocs.io/javascript
 
 <br />
 <br />
 
 [<img align="left" alt="Python" width="150px" src="icons/python.svg" />][python]
 
-<br />
-<br />
-
 [python]: https://www.python.org
+
+<br />
+<br />
 
 [<img align="left" alt="SQL" width="44px" src="icons/sql.svg" />][sql]
 [<img align="left" alt="SQLite" width="44px" src="icons/sqlite.svg" />][sqlite]
