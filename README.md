@@ -13,8 +13,10 @@
 <br />
 
 [<img align="left" alt="Python" width="150px" src="icons/python.svg" />][python]
+[<img align="left" alt="Pandas" width="44px" src="icons/pandas.svg" />][pandas]
 
 [python]: https://www.python.org
+[pandas]: https://pandas.pydata.org
 
 <br />
 <br />
