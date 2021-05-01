@@ -20,8 +20,10 @@
 <br />
 
 [<img align="left" alt="Scikit-learn" width="80px" src="icons/scikit-learn.svg" />][scikit-learn]
+[<img align="left" alt="Matplotlib" width="80px" src="icons/matplotlib.svg" />][matplotlib]
 
 [scikit-learn]: https://scikit-learn.org
+[matplotlib]: https://matplotlib.org
 
 <br />
 <br />
