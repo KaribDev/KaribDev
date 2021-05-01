@@ -19,6 +19,13 @@
 <br />
 <br />
 
+[<img align="left" alt="Scikit-learn" width="50px" src="icons/scikit-learn.svg" />][scikit-learn]
+
+[scikit-learn]: https://scikit-learn.org
+
+<br />
+<br />
+
 [<img align="left" alt="SQL" width="44px" src="icons/sql.svg" />][sql]
 [<img align="left" alt="SQLite" width="44px" src="icons/sqlite.svg" />][sqlite]
 
