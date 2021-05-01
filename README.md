@@ -16,7 +16,8 @@
 
 [python]: https://www.python.org
 
-<br />  
+<br />
+<br />
 
 [<img align="left" alt="Scikit-learn" width="100px" src="icons/scikit-learn.svg" />][scikit-learn]
 
