@@ -19,7 +19,7 @@
 <br />
 <br />
 
-[<img align="left" alt="Scikit-learn" width="50px" src="icons/scikit-learn.svg" />][scikit-learn]
+[<img align="left" alt="Scikit-learn" width="150px" src="icons/scikit-learn.svg" />][scikit-learn]
 
 [scikit-learn]: https://scikit-learn.org
 
