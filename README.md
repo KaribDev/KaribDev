@@ -15,6 +15,7 @@
 [<img align="left" alt="Python" width="150px" src="icons/python.svg" />][python]
 
 [python]: https://www.python.org
+
 <br />
 <br />
 
