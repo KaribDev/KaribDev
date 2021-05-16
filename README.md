@@ -45,7 +45,7 @@
 
 [git]: https://git-scm.com
 [linux]: https://www.linuxfoundation.org
-[cmd]: https://docs.microsoft.com/ru-ru/windows-server/administration/windows-commands/windows-commands
+[cmd]: https://ss64.com/bash/
 
 <br />
 <br />
