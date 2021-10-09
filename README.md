@@ -54,7 +54,6 @@
 
 [<img align="left" alt="Telegram" width="40px" src="icons/telegram.svg" />][telegram]
 [<img align="left" alt="Instagram" width="40px" src="icons/instagram.svg" />][instagram]
-[<img align="left" alt="Discord" width="40px" src="icons/discord.svg" />][discord]  
 
 [telegram]: https://t.me/SirKarib
 [instagram]: https://www.instagram.com/cyril_chirkov/  
