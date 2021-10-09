@@ -57,8 +57,7 @@
 [<img align="left" alt="Discord" width="40px" src="icons/discord.svg" />][discord]  
 
 [telegram]: https://t.me/SirKarib
-[instagram]: https://www.instagram.com/cyril_chirkov/
-[discord]: https://discord.gg/st9kVMzK5K  
+[instagram]: https://www.instagram.com/cyril_chirkov/  
 
 <br />
 <br />  
