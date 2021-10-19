@@ -45,7 +45,7 @@
 
 [git]: https://git-scm.com
 [linux]: https://www.linuxfoundation.org
-[cmd]: https://ss64.com/bash/
+[cmd]: https://github.com/SirKarib/LinuxAliases
 
 <br />
 <br />
