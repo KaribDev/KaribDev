@@ -50,22 +50,6 @@
 <br />
 <br />
 
-### Social Media
-
-[<img align="left" alt="Telegram" width="40px" src="icons/telegram.svg" />][telegram]
-[<img align="left" alt="Instagram" width="40px" src="icons/instagram.svg" />][instagram]
-
-[telegram]: https://t.me/SirKarib
-[instagram]: https://www.instagram.com/cyril_chirkov/  
-
-<br />
-<br />  
-
-[<img align="left" alt="Steam" width="40px" src="icons/steam.svg" />][steam]
-[<img align="left" alt="Spotify" width="40px" src="icons/spotify.svg" />][spotify]
-
-[steam]: https://steamcommunity.com/id/SirKarib
-[spotify]: https://open.spotify.com/user/00woaxm0157hsba4h99q314ka?si=snimGCJLRFCLRA_L1QW6Hg
 
 <br />
 <br />
