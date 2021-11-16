@@ -20,12 +20,9 @@
 <br />
 
 [<img align="left" alt="NumPy" width="40px" src="icons/numpy.svg" />][numpy]
-[<img align="left" alt="Scikit-learn" width="75px" src="icons/scikit-learn.svg" />][scikit-learn]
-[<img align="left" alt="Matplotlib" width="45px" src="icons/matplotlib.svg" />][matplotlib]
 
 [numpy]: https://numpy.org/
-[scikit-learn]: https://scikit-learn.org
-[matplotlib]: https://matplotlib.org
+
 
 <br />
 <br />
