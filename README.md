@@ -37,7 +37,7 @@
 <br />
 
 [<img align="left" alt="Git" width="44px" src="icons/git.svg" />][git]
-[<img align="left" alt="Docker" width="54px" src="icons/docker.svg" />][cmd]
+[<img align="left" alt="Docker" width="54px" src="icons/docker.svg" />][docker]
 
 [git]: https://git-scm.com
 [docker]: https://docker.com
