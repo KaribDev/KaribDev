@@ -47,6 +47,13 @@
 <br />
 <br />
 
+[<img align="left" alt="Docker" width="44px" src="icons/docker.svg" />][cmd]
+
+[docker]: https://github.com/SirKarib/LinuxAliases
+
+<br />
+<br />
+
 ### Codewars
 
 [<img align="left" alt="CodeWars" width="200px" src="https://www.codewars.com/users/SirKarib/badges/micro" />][codewars]
