@@ -40,7 +40,7 @@
 [<img align="left" alt="Docker" width="54px" src="icons/docker.svg" />][cmd]
 
 [git]: https://git-scm.com
-[docker]: https://github.com/SirKarib/LinuxAliases
+[docker]: https://www.docker.com
 
 <br />
 <br />
