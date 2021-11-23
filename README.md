@@ -37,22 +37,23 @@
 <br />
 
 [<img align="left" alt="Git" width="44px" src="icons/git.svg" />][git]
+[<img align="left" alt="Docker" width="44px" src="icons/docker.svg" />][cmd]
+
+[git]: https://git-scm.com
+[docker]: https://github.com/SirKarib/LinuxAliases
+
+<br />
+<br />
+
 [<img align="left" alt="Linux" width="44px" src="icons/linux.svg" />][linux]
 [<img align="left" alt="Command Prompt" width="44px" src="icons/cmd.svg" />][cmd]
 
-[git]: https://git-scm.com
 [linux]: https://www.linuxfoundation.org
 [cmd]: https://github.com/SirKarib/LinuxAliases
 
 <br />
 <br />
 
-[<img align="left" alt="Docker" width="44px" src="icons/docker.svg" />][cmd]
-
-[docker]: https://github.com/SirKarib/LinuxAliases
-
-<br />
-<br />
 
 ### Codewars
 
