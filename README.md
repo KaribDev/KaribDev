@@ -31,7 +31,6 @@
 
 [numpy]: https://numpy.org/
 
-
 <br />
 <br />
 
