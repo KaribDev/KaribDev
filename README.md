@@ -1,5 +1,7 @@
-[<object align="left" alt="R E T R O W A V E" src="img/retrowave_bg.svg" />][retrowave]
-
+<OBJECT data="img/retrowave_bg.svg" type="image/gif">
+     <!-- Else render the text --> 
+</OBJECT>
+        
 [retrowave]: https://github.com/SirKarib
 
 ### Skills and Tools
