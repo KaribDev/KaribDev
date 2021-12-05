@@ -1,4 +1,4 @@
-[<img align="left" alt="R E T R O W A V E" width="1136px" src="img/retrowave_bg.svg" />][retrowave]
+[<img align="left" alt="R E T R O W A V E" src="img/retrowave_bg.svg" />][retrowave]
 
 [retrowave]: chrome://dino/
 
