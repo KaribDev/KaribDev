@@ -29,10 +29,15 @@
 
 [<img align="left" alt="SQL" width="44px" src="icons/sql.svg" />][sql]
 [<img align="left" alt="SQLite" width="44px" src="icons/sqlite.svg" />][sqlite]
-[<img align="left" alt="MongoDB" width="44px" src="icons/mongodb.svg" />][mongodb]
 
 [sql]: https://www.iso.org/standard/63555.html
 [sqlite]: https://www.sqlite.org
+
+<br />
+<br />
+
+[<img align="left" alt="MongoDB" width="74px" src="icons/mongodb.svg" />][mongodb]
+
 [mongodb]: https://www.mongodb.com
 
 <br />
