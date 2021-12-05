@@ -1,6 +1,6 @@
 [<img align="center" alt="R E T R O W A V E" src="img/retrowave_bg.svg" />][retrowave]
 
-[retrowave]: chrome://dino/
+[retrowave]: https://github.com/SirKarib
 
 ### Skills and Tools
 
