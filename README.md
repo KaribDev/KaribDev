@@ -1,4 +1,4 @@
-[<img align="left" alt="R E T R O W A V E" width="136px" src="icons/retrowave_bg.svg" />][retrowave]
+[<img align="left" alt="R E T R O W A V E" width="136px" src="img/retrowave_bg.svg" />][retrowave]
         
 [retrowave]: https://github.com/SirKarib
 
