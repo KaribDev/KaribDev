@@ -1,4 +1,4 @@
-[<img align="left" alt="HTML5" width="36px" src="img/retrowave_bg.svg" />][html]
+[<img align="left" alt="HTML5" width="1136px" src="img/retrowave_bg.svg" />][html]
 
 <br />
 <br />
