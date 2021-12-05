@@ -36,7 +36,7 @@
 <br />
 <br />
 
-[<img align="left" alt="MongoDB" width="74px" src="icons/mongodb.svg" />][mongodb]
+[<img align="left" alt="MongoDB" width="134px" src="icons/mongodb.svg" />][mongodb]
 
 [mongodb]: https://www.mongodb.com
 
