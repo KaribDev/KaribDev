@@ -33,11 +33,11 @@ style="" viewBox="0 0 1920 1100">
   style="filter: drop-shadow(0 0 58px #F00090); overflow: visible;"
   />
   <g id="Group_1" data-name="Group 1" opacity="0.95" fill="#2b1165" style="filter: drop-shadow(0 0 98px #F00090); overflow: visible;">
-    <rect id="Rectangle_2-1" data-name="Rectangle 2" width="476" height="5" transform="translate(800 315)"/>
-    <rect id="Rectangle_2-2" data-name="Rectangle 2" width="470" height="7" transform="translate(803 350)"/>
-    <rect id="Rectangle_2-3" data-name="Rectangle 2" width="446" height="9" transform="translate(815 395)"/>
-    <rect id="Rectangle_2-4" data-name="Rectangle 2" width="402" height="11" transform="translate(837 440)"/>
-    <rect id="Rectangle_2-5" data-name="Rectangle 2" width="324" height="14" transform="translate(876 485)"/>
+    <rect id="Rectangle_2-1" data-name="Rectangle 2" width="476" height="6" transform="translate(800 315)"/>
+    <rect id="Rectangle_2-2" data-name="Rectangle 2" width="467" height="6" transform="translate(805 360)"/>
+    <rect id="Rectangle_2-3" data-name="Rectangle 2" width="438" height="7" transform="translate(819 405)"/>
+    <rect id="Rectangle_2-4" data-name="Rectangle 2" width="387" height="9" transform="translate(845 450)"/>
+    <rect id="Rectangle_2-5" data-name="Rectangle 2" width="303" height="10" transform="translate(887 495)"/>
   </g>
   <g id="Grid" data-name="Group Grid" transform="translate(0,1182) scale(0.155,-0.130)"
   fill="#DC71FF" stroke="none" style="filter: drop-shadow(0 0 78px #F200FF); overflow: visible;">
