@@ -5,6 +5,11 @@
 <br />
 <br />
 
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=00woaxm0157hsba4h99q314ka&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=00woaxm0157hsba4h99q314ka&cover_image=true&theme=natemoo-re&bar_color=fb05ff&bar_color_cover=false)]]
+
+<br />
+<br />
+
 ### Skills and Tools
 
 [<img align="left" alt="HTML5" width="36px" src="icons/html.svg" />][html]
