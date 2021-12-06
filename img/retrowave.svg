@@ -1,9 +1,9 @@
 <svg id="bg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1100" 
 style="" viewBox="0 0 1920 1100">
   <defs>
-    <linearGradient id="linear-gradient-bg" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
-      <stop offset="0"/>
-      <stop offset="1" stop-color="#2b1165"/>
+    <linearGradient id="linear-gradient-bg" x1="0.5" x2="0.5" y2="1.7" gradientUnits="objectBoundingBox">
+      <stop offset="0.001" stop-color="#2b1165"/>
+      <stop offset="0.954" stop-color="#A90068"/>
     </linearGradient>
     <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="0.699" gradientUnits="objectBoundingBox">
       <stop offset="0.001" stop-color="#F5FF6E"/>
@@ -261,7 +261,7 @@ style="" viewBox="0 0 1920 1100">
     -53 0 -53 0 15 -7z"/>
   </g>
 
-  <g id="mountains" data-name="Group 2" opacity="1" fill="#2b1165" style="filter: drop-shadow(0 0 8px #F200FF); overflow: visible;">
+  <g id="mountains" data-name="Group 2" opacity="1" fill="#2b1165" style="filter: drop-shadow(0 0 11px #F200FF); overflow: visible;">
     <polygon id="Triangle-2" points="5,135 45,-25 225,135" fill="#0C174C" stroke="#D67BF3" stroke-width="4" transform="translate(105 485)"/>
     <polygon id="Triangle-1" points="5,135 115,-85 225,135" fill="#0C174C" stroke="#D67BF3" stroke-width="4" transform="translate(-40 495)"/>
     <polygon id="Triangle-3" points="5,135 145,5 345,135" fill="#0C174C" stroke="#D67BF3" stroke-width="4" transform="translate(130 495)"/>
