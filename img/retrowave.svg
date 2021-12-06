@@ -39,7 +39,7 @@ style="" viewBox="0 0 1920 1100">
     <rect id="Rectangle_2-4" data-name="Rectangle 2" width="402" height="11" transform="translate(837 440)"/>
     <rect id="Rectangle_2-5" data-name="Rectangle 2" width="324" height="14" transform="translate(876 485)"/>
   </g>
-  <g id="Grid" data-name="Group Grid" transform="translate(0,1183.000) scale(0.155,-0.130)"
+  <g id="Grid" data-name="Group Grid" transform="translate(0,1182) scale(0.155,-0.130)"
   fill="#DC71FF" stroke="none" style="filter: drop-shadow(0 0 78px #F200FF); overflow: visible;">
     <path d="M238 4863 c39 -2 105 -2 145 0 39 1 7 3 -73 3 -80 0 -112 -2 -72 -3z"/>
     <path d="M2383 4863 c15 -2 39 -2 55 0 15 2 2 4 -28 4 -30 0 -43 -2 -27 -4z"/>
