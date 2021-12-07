@@ -274,8 +274,11 @@ style="" viewBox="0 0 1920 1100">
     <polygon id="Triangle-17" points="15,135 105,-35 295,135" fill="#0C174C" stroke="#D67BF3" stroke-width="4" transform="translate(1630 495)"/>
   </g>
 
-  <rect id="Rectangle_3" data-name="Rectangle 3" width="1920" height="53" transform="translate(0 618)" fill="#F7CCFF"
-  style="filter: drop-shadow(0 0 18px #D67BF3) blur(8px); overflow: visible;"/>
+  <filter id="blurMe">
+    <feGaussianBlur in="SourceGraphic" stdDeviation="5" />
+  </filter>
+
+  <rect id="Rectangle_3" data-name="Rectangle 3" width="1920" height="53" transform="translate(0 618)" fill="#F7CCFF" filter="drop-shadow(0 0 18px #D67BF3) blur(8px)"/>
   <g id="wordKarib" stroke-linecap="round" fill-rule="evenodd" font-size="9pt" stroke="#000" stroke-width="0.35mm" fill="url(#linear-gradient-3)" 
   style="stroke:#000;stroke-width:0.55mm;filter: drop-shadow(0 0 2px #F200FF); overflow: visible;fill:url(#linear-gradient-3);transform:scale(2.5) translate(320px, 280px);">
     <path d="M 0 70 L 0 0 L 11 0 L 11 29.5 L 25 0 L 36 0 L 22.9 25.7 L 36.2 70 L 24.7 70 L 15.4 38.8 L 11 47.7 L 11 70 L 0 70 Z" id="0" vector-effect="non-scaling-stroke"/>
