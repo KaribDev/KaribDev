@@ -1,3 +1,3 @@
-[<img align="left" alt="R E T R O W A V E" src="img/retrowave.svg" />][retrowave]
+[<img align="left" alt="KaribDev" src="img/KaribDev.svg" />][karibdev]
 
-[retrowave]: https://github.com/KaribDev
+[karibdev]: https://github.com/KaribDev
